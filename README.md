@@ -4,6 +4,24 @@ Welcome to the Backend Training repository.
 
 This repository contains the learning materials and practical work for the Backend training season. It is organized into two levels so members can easily find the content relevant to each stage.
 
+## Repository Structure
+
+```text
+MSP-BackEnd/
+│
+├── README.md
+│
+├── Level-1/
+│   ├── Session-01/
+│   │   ├── README.md
+│   │   └── Prerequisites/
+│   │       └── README.md
+│   │
+│   └── ...
+│
+└── Level-2/
+    └── ...
+```
 
 ## Training Levels
 
