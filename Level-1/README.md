@@ -45,7 +45,7 @@ Only delivered sessions are listed below. This table is updated after each compl
 | Session | Topics Covered | Task / Assignment | Status |
 |---------|----------------|-------------------|--------|
 | [Session 01 — Backend Foundations + Node.js](./Session-01/README.md) | Backend role, Client-Server architecture, request/response lifecycle, networking basics, IP addresses & ports, TCP vs. UDP, DNS, HTTP vs. HTTPS, Node.js introduction, required JavaScript fundamentals | — | Completed |
-
+| [Session 02 — Asynchronous JavaScript & Node.js Core Runtime](./Session-02/README.md) | Blocking vs. non-blocking I/O, Callbacks & Callback Hell, Promises (`all`, `allSettled`, `race`, `any`), `async/await` & error handling, Engine vs. Runtime, V8, `libuv` & Thread Pool, Built-in Core Modules, Event Loop phases & microtasks, `EventEmitter`, `worker_threads` | CLI Order Processor (`orders.js`) + Async Evolution Recap Presentation | Completed |
 ---
 
 ## Learning Approach
